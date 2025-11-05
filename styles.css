@@ -1,0 +1,14 @@
+:root {
+  --softgray1: #d6d4d0;
+  --black: #1a1919;
+}
+body {
+  background-color: var(--softgray1);
+  color: var(--black);
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+button {
+  background-color: var(--softgray1);
+  color: var(--black);
+  font-family: "Lucida Console", "Courier New", monospace;
+}
